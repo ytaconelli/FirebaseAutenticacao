@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Autenticação</string>
+    <string name="btn_sair">LOGOUT</string>
+</resources>
